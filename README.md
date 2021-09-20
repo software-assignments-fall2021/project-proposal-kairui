@@ -1,4 +1,5 @@
 # Pomodoro Tracker App
+Team members: Kairui Huang, Austin Lee
 
 ### What is it?
 Inspired by the [Pomodoro Technique](https://todoist.com/productivity-methods/pomodoro-technique),
